@@ -111,27 +111,5 @@ DocChat will be accessible at `http://0.0.0.0:7860`.
 5️⃣ **If the question is out of scope**, DocChat will inform you instead of fabricating an answer.  
 
 
-## 🤝 Contributing  
-
-Want to **improve DocChat**? Feel free to:  
-
-- **Fork the repo**  
-- **Create a new branch** (`feature-xyz`)  
-- **Commit your changes**  
-- **Submit a PR (Pull Request)**  
-
-We welcome contributions from **AI/NLP enthusiasts, researchers, and developers!** 🚀  
-
----
-
-## 📜 License  
-
-This project is licensed under a Customed Non-Commercial License – check LICENSE for more details.
-
----
-
-## 💬 Contact & Support  
-
-📧 **Email:** [hailey@haileyq.com]  
 
 
